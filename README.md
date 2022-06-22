@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=Welcome&fontSize=90"/>
 
 #### Introduction</br>
-👋 Hi there. I'm $Artificial Intelligence developer$ using Python.
+👋 Hi there. I'm **Artificial Intelligence developer** using Python.
 I usually use Pytorch, and Scikit-Learn Library.
-My main field is $Natural Language Processing$.
+My main field is **Natural Language Processing**.
 Sometimes, i also deal with Computer Vision or Time series.
 
 #### Contact me
