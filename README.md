@@ -6,6 +6,8 @@ I usually use Pytorch, and Scikit-Learn Library.
 My main field is **Natural Language Processing**.
 Sometimes, i also deal with Computer Vision or Time series.
 
+---
+
 #### Contact me
 <img src="https://img.shields.io/badge/goat1228@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
