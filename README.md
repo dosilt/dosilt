@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=Welcome&fontSize=90"/>
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<a href="[1. 연결하고싶은 사이트 url]" target="_blank"><img src="https://img.shields.io/badge/python-AAAAAA?style=flat-square&logo=[4. 로고명(아이콘명)]&logoColor=white"/></a>
+
 <!--
 **dosilt/dosilt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
