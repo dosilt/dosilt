@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/goat1228@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 hello
 
 <!--
